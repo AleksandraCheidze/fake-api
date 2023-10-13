@@ -1,0 +1,30 @@
+[
+{
+"name":"rose",
+"colore":"red",
+"description":"Has horns and very beatiful",
+"img":"https://images.unsplash.com/photo-1596073419667-9d77d59f033f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cm9zZSUyMGZsb3dlcnxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80",
+"maxHeight": 200
+},
+{
+"name":"camomil",
+"colore":"white",
+"description":"Smells funky",
+"img":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Kamomillasaunio_%28Matricaria_recutita%29.JPG/800px-Kamomillasaunio_%28Matricaria_recutita%29.JPG",
+"maxHeight":60
+},
+{
+"name":"Lily of the velly",
+"colore":"white",
+"description":"Beauty of forest",
+"img":"https://hips.hearstapps.com/hmg-prod/images/lily-of-the-valley-convallaria-majalis-1663608154.jpg?crop=0.668xw:1.00xh;0.196xw,0&resize=640:*",
+"maxHeight":30
+},
+{
+"name":"Tulip",
+"colore":"pink",
+"img":"https://cdn.accentuate.io/559090204840/1651765103900/Tulip-Single-Rounded-299x315.jpeg?v=0",
+"description":"Treasure of Holland",
+"maxHeight":50
+}
+]
